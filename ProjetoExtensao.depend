@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697124679 source:c:\users\debora vicente\documents\2023\projetoextensao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+
